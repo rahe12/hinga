@@ -26,7 +26,7 @@
             A lightweight, frontend-ready template designed for seamless team collaboration and quick iteration.
         </p>
         <div class="flex justify-center gap-4">
-            <a href="register.php" class="px-6 py-3 bg-emerald-600 hover:bg-emerald-500 text-slate-950 font-bold rounded-xl transition-all shadow-lg shadow-emerald-600/20">Create Free Account</a>
+            <a href="registration.php" class="px-6 py-3 bg-emerald-600 hover:bg-emerald-500 text-slate-950 font-bold rounded-xl transition-all shadow-lg shadow-emerald-600/20">Create Free Account</a>
             <a href="login.php" class="px-6 py-3 bg-slate-900 hover:bg-slate-800 border border-slate-800 text-slate-200 font-bold rounded-xl transition-all">Sign In</a>
         </div>
     </main>
