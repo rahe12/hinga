@@ -30,7 +30,7 @@
         </form>
 
         <p class="text-center text-sm text-slate-400 mt-6">
-            Don't have an account? <a href="register.php" class="text-emerald-400 font-semibold hover:underline">Register</a>
+            Don't have an account? <a href="registration.php" class="text-emerald-400 font-semibold hover:underline">Register</a>
         </p>
     </div>
 
