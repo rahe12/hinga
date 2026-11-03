@@ -13,7 +13,7 @@
         <div class="text-xl font-bold tracking-tight text-emerald-400">SimpleApp</div>
         <div class="space-x-4">
             <a href="login.php" class="px-4 py-2 text-sm font-semibold text-slate-300 hover:text-white transition-colors">Log In</a>
-            <a href="register.php" class="px-4 py-2 text-sm font-semibold bg-emerald-600 hover:bg-emerald-500 text-slate-950 rounded-lg transition-colors">Get Started</a>
+            <a href="registration.php" class="px-4 py-2 text-sm font-semibold bg-emerald-600 hover:bg-emerald-500 text-slate-950 rounded-lg transition-colors">Get Started</a>
         </div>
     </nav>
 
